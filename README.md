@@ -1,41 +1,10 @@
-<div align="center">
-  <a href="https://alist.nn.ci"><img width="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂️A file list program that supports multiple storages, powered by Gin and Solidjs.</em></p>
-<div>
-  <a href="https://goreportcard.com/report/github.com/alist-org/alist/v3">
-    <img src="https://goreportcard.com/badge/github.com/alist-org/alist/v3" alt="latest version" />
-  </a>
-  <a href="https://github.com/alist-org/alist/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Xhofe/alist" alt="License" />
-  </a>
-  <a href="https://github.com/alist-org/alist/actions?query=workflow%3ABuild">
-    <img src="https://img.shields.io/github/actions/workflow/status/Xhofe/alist/build.yml?branch=main" alt="Build status" />
-  </a>
-  <a href="https://github.com/alist-org/alist/releases">
-    <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
-  </a>
-  <a title="Crowdin" target="_blank" href="https://crwd.in/alist">
-    <img src="https://badges.crowdin.net/alist/localized.svg">
-  </a>
-</div>
-<div>
-  <a href="https://github.com/alist-org/alist/discussions">
-    <img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936" alt="discussions" />
-  </a>
-  <a href="https://discord.gg/F4ymsH4xv2">
-    <img src="https://img.shields.io/discord/1018870125102895134?logo=discord" alt="discussions" />
-  </a>
-  <a href="https://github.com/alist-org/alist/releases">
-    <img src="https://img.shields.io/github/downloads/Xhofe/alist/total?color=%239F7AEA&logo=github" alt="Downloads" />
-  </a>
-  <a href="https://hub.docker.com/r/xhofe/alist">
-    <img src="https://img.shields.io/docker/pulls/xhofe/alist?color=%2348BB78&logo=docker&label=pulls" alt="Downloads" />
-  </a>
-  <a href="https://alist.nn.ci/guide/sponsor.html">
-    <img src="https://img.shields.io/badge/%24-sponsor-F87171.svg" alt="sponsor" />
-  </a>
-</div>
-</div>
+# 服务器代理服务 Server Proxy Service
+
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
+
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
 ---
 
